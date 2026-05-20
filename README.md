@@ -1,0 +1,2 @@
+# Multi-Modal-Alpha-Generation-Architecture-Corporate-Disclosure-Sentiment-Fusion-Engine
+ A modular, production-grade quantitative finance pipeline that extracts unstructured corporate disclosure data (such as earnings media releases and credit rating rationales), processes the text strings using a deep-learning **FinBERT Transformer Architecture**, and maps directional sentiment indicators onto an intraday 5-minute pricing backbone.
